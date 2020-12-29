@@ -1,13 +1,7 @@
-package reminder;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import javax.swing.JOptionPane;
-
+fdjkyfgubjhiknj
 /**
  *
- * @author Ahmed
+ * @author HUzaifa
  */
 public class DateTimeValidator {
 
